@@ -21,8 +21,8 @@
 ### 1. DeepFaceLab 환경 설정
 
 cd ./DeepFaceLab/
-.venv/Scripts/activate
 
+.venv/Scripts/activate
 
 
 # 비디오 변환
