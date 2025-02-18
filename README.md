@@ -19,7 +19,7 @@
 ## 실행 명령어
 
 ### 1. DeepFaceLab 환경 설정
-```bash
+
 cd ./DeepFaceLab/
 .venv/Scripts/activate
 
