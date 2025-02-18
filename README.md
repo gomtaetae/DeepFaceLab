@@ -1,3 +1,20 @@
+학습 300번 이미지 사진 60개 좌우상하 반전 학습
+처음 결과
+![image](https://github.com/user-attachments/assets/048e225a-036d-406c-80f3-f1c3b0366e77)
+
+
+학습 300번 이미지 사진 300개 좌우상하 반전 학습
+두번째 결과
+![image](https://github.com/user-attachments/assets/ab7e1d28-acbd-44b3-8eba-a201d4a109e7)
+
+학습 500번 이미지 사진 300개 좌우상하 반전 학습
+세번째 결과
+ ![image](https://github.com/user-attachments/assets/58337dae-167c-4e52-943d-ddb0ebefa763)
+
+ 
+ 
+ 
+------------ 
  cd .\DeepFaceLab\ 
 
 .\.venv\Scripts\activate
